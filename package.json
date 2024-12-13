@@ -1,0 +1,27 @@
+{
+  "name": "cinema-booking-system",
+  "version": "1.0.0",
+  "description": "A chat-like interface for cinema ticket booking system implemented in Node.js with a test-driven approach.",
+  "main": "chatInterface.js",
+  "scripts": {
+    "start": "node chatInterface.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "cinema",
+    "ticket-booking",
+    "nodejs",
+    "tdd",
+    "chat-assistant"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
